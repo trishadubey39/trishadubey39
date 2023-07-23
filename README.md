@@ -11,12 +11,12 @@ Work:
 
 Community:
 
-👨‍🏫 I do a lot of talking with developers i meet being always curious about there Point of view.
-☕ I try as many people i can by communicating with them one on one.
-🤓🕹️ Trying to to available online as much as possible to communicate with online community, as its never too late.
+👨‍🏫 I talk a lot with developers around me, always curious about there Point of view.
+☕ I try to connect with as many people as i can.
+🤓🕹️ Trying to available online as much as possible to communicate with online community, as its never too late.
 
 Fun:
 
 🤓🕹️ My hobbies are all the nerdy stuff - Books, Video Games, MTG, board gaming.
-🧗 I'm extremely enthusiastic about going on extreme to feel dopamine.
+🧗 I'm extremely enthusiastic about going on extreme life desicions to feel dopamine.
 📚 I also like writing, I might publish my writings one day.
