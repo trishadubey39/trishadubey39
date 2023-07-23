@@ -1,5 +1,7 @@
 
 Hi there 👋 I'm Trisha! :]
+
+
 Work:
 
 💻 I've been an Android developer since 2020.
