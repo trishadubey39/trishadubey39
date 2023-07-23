@@ -5,7 +5,7 @@ Hi there 👋 I'm Trisha! :]
 Work:
 
 💻 I've been an Android developer since 2020.
-❤️‍🔥 Java has been my primary language since early 2019 and I learned Kotlin , Dart on my to Mobile App Development..
+❤️‍🔥 Java has been my primary language since early 2019 and I learned Kotlin , Dart on my way to Mobile App Development..
 🤝 You can find and connect with me on LinkedIn if you have any questions or work opportunities.
 📫 Reach out to me via: trishadubey39@gmail.com
 
