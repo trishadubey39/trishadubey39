@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Trisha </h1>
+<h1 align="center">Hi 👋, I'm Trisha</h1>
 <h3 align="center">Software Developer(Android, Flutter)</h3>
 
 
