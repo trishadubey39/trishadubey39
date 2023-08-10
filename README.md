@@ -6,7 +6,6 @@
 
 ### 
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/trisha-dubey-802b79157) 
 [![Leetcode](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode)](https://leetcode.com/trishadubey39/) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%230077B5.svg?logo=Hackerrank)](https://www.hackerrank.com/sweetydubey39?hr_r=1) 
