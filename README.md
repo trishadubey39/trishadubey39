@@ -8,8 +8,6 @@
 
 <a href="https://github.com/trishadubey39"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=trishadubey39&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a></br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 </p>
 
 
